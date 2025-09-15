@@ -24,10 +24,15 @@ It helps answer the key question: *“Is the observed difference real, or just r
 ## Example Input
 CSV file:
 ```csv```
+
 variant,visits,conversions,revenue
+
 A,10074,772,36133
+
 B,10234,824,38108
+
 C,10478,915,41481
+
 D,10362,720,34045
 
 ## Quick Start
