@@ -9,6 +9,17 @@ Runs easily in Jupyter Notebook.
 - Multiple comparison correction (Holm/Bonferroni/BH-FDR)
 - Revenue metrics: AOV, RPV
 - Export results to CSV/Excel
+- Easy to run in Jupyter
+---
+
+## 📂 Example Input
+CSV file:
+```csv
+variant,visits,conversions,revenue
+A,10074,772,36133
+B,10234,824,38108
+C,10478,915,41481
+D,10362,720,34045
 
 ## Quick Start
 ```python
