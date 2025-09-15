@@ -10,6 +10,17 @@ Runs easily in Jupyter Notebook.
 - Revenue metrics: AOV, RPV
 - Export results to CSV/Excel
 
+## 🌍 Real-World Applications
+
+This tool is useful anywhere A/B(/n) testing is applied to make data-driven decisions, such as:
+
+- **Marketing campaigns** → test email subject lines, ad creatives, or CTAs.  
+- **Web & UX design** → compare landing pages, checkout flows, or navigation menus.  
+- **E-commerce & pricing** → evaluate offers (Free Shipping vs 10% Off) or price points.  
+- **SaaS & product features** → analyze onboarding flows, upsells, or new features.  
+
+It helps answer the key question: *“Is the observed difference real, or just random noise?”*  
+
 ## Example Input
 CSV file:
 ```csv```
