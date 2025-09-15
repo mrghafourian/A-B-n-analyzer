@@ -12,6 +12,12 @@ Runs easily in Jupyter Notebook.
 - Easy to run in Jupyter
 ---
 
+## Quick Start
+```python
+from abcalc_notebook import analyze_file
+
+pretty, raw = analyze_file("sample_data/ab_test_with_revenue.csv")
+
 ## 📂 Example Input
 CSV file:
 ```csv
@@ -21,8 +27,3 @@ B,10234,824,38108
 C,10478,915,41481
 D,10362,720,34045
 
-## Quick Start
-```python
-from abcalc_notebook import analyze_file
-
-pretty, raw = analyze_file("sample_data/ab_test_with_revenue.csv")
